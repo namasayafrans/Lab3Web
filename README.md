@@ -1,7 +1,7 @@
 # Lab3web
-Nama : Tiara Putri
+Nama : Frans Putra SInaga 
 
-NIM  : 312210064
+NIM  : 312210046
 
 Kelas : TI.22.A.1
 
